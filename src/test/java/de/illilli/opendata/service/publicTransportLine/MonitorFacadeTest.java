@@ -1,4 +1,4 @@
-package de.illilli.opendata.service.nextbusmonitor;
+package de.illilli.opendata.service.publicTransportLine;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -6,6 +6,7 @@ import java.net.MalformedURLException;
 import org.junit.Before;
 
 import de.illilli.opendata.service.Facade;
+import de.illilli.opendata.service.publicTransportLine.MonitorFacade;
 
 public class MonitorFacadeTest {
 
